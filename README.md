@@ -16,4 +16,4 @@ My name is Cal and I am an Azure Solutions Architect, I do my best to keep up wi
 
 | Stats |  Languages |
 | --------------- | --------------- |
-| [![Cal's GitHub stats](https://github-readme-stats.vercel.app/api?username=calcloudtech&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calcloudtech&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Cal's GitHub stats](https://github-readme-stats.vercel.app/api?username=calcloudsolutions&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calcloudsolutions&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
