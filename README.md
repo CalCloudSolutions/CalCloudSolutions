@@ -1,6 +1,8 @@
-Hi all 👋
+Hi 👋
 
-My name is Cal and I am an Azure Solutions Architect, I do my best to keep up with all the new trends when it comes to Microsoft Azure and anything cool in the tech world 😎 I work mailnly with IaC in DevOps.
+Check out my website: https://calcloudsolutions.com
+
+My name is Cal and I am an Cloud Solutions Architect, I do my best to keep up with all the new trends when it comes to Microsoft Cloud and anything cool in the tech world 😎 I work mailnly with IaC in DevOps.
 
     🔭 I’m currently working on Azure and DevOps
     🌱 I do my best to stay up to date especially with IaC
