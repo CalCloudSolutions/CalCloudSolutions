@@ -2,17 +2,17 @@ Hi 👋
 
 Check out my website: https://calcloudsolutions.com
 
-My name is Cal and I am an Cloud Solutions Architect, I do my best to keep up with all the new trends when it comes to Microsoft Cloud and anything cool in the tech world 😎 I work mailnly with IaC in DevOps.
+My name is Cal and I am a Cloud Solutions Architect, I do my best to keep up with all the new trends when it comes to Microsoft Cloud and anything cool in the tech world 😎
 
     🔭 I’m currently working on Azure and DevOps
-    🌱 I do my best to stay up to date especially with IaC
+    🌱 I do my best to stay up to date especially with IaC/Microsoft/Bicep/DevOps/CyberSecurity
     ⚒️ I am a big fan of Bicep and love working with YAML pipelines
     👯 I’m looking to collaborate with any like minded folk
     🤔 I’m looking to spend more time growing my own personal repo.. at some point..
     💬 Ask me about Azure/IaC/DevOps/CyberSecurity
     📫 How to reach me: Twitter @cal-pretorius
     ⚡ Fun fact 1: I am a huge fan of motorsport such as F1, MotoGP and Supercross/Motocross
-    ⚡ Fun fact 2: I am South African but I have immigrated to the Netherlands.. Mijn Nederlands is slecht, maar ik ben nog aan het leren!
+    ⚡ Fun fact 2: I am South African but I have immigrated to the sunny shores of the Cayman Islands
 
 [![Linkedin: Ryan Yates](https://img.shields.io/badge/-Cal%20Pretorius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cal-pretorius/)](https://www.linkedin.com/in/cal-pretorius/)
 
