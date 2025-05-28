@@ -10,7 +10,7 @@ My name is Cal and I am a Cloud Solutions Architect, I do my best to keep up wit
     👯 I’m looking to collaborate with any like minded folk
     🤔 I’m looking to spend more time growing my own personal repo.. at some point..
     💬 Ask me about Azure/IaC/DevOps/CyberSecurity
-    📫 How to reach me: Twitter @cal-pretorius
+    📫 How to reach me: Twitter @cal-pretorius or via my website: calcloudsolutions.com
     ⚡ Fun fact 1: I am a huge fan of motorsport such as F1, MotoGP and Supercross/Motocross
     ⚡ Fun fact 2: I am South African but I have immigrated to the sunny shores of the Cayman Islands
 
